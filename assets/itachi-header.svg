@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="440" viewBox="0 0 1280 440" role="img" aria-labelledby="title desc">
+<title id="title">Dataset Putusan Narkotika PN Surakarta</title>
+<desc id="desc">Tema Itachi: bulan merah, siluet shinobi, mata merah, dan gagak. 50 putusan tahun 2023 sampai 2025.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#13131b"/><stop offset="1" stop-color="#050509"/></linearGradient>
+ <radialGradient id="moon"><stop stop-color="#ff655c"/><stop offset=".63" stop-color="#d02c3c"/><stop offset="1" stop-color="#641525"/></radialGradient>
+ <linearGradient id="red"><stop stop-color="#f34f5c"/><stop offset="1" stop-color="#7e1426"/></linearGradient>
+ <pattern id="rain" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M70 0L20 80" stroke="#fff" stroke-opacity=".022"/></pattern>
+ <g id="crow"><path d="M0 0Q-15-26-48-18L-25-9L-41-6L-15 2L-5 9L-12 22L1 15L10 20L7 8L25 0L43-15L24-10L32-26Q11-23 3-4L8-7L13-3L5 0Z" fill="#08090f"/></g>
+</defs>
+<rect width="1280" height="440" rx="18" fill="url(#bg)"/>
+<rect width="1280" height="440" rx="18" fill="url(#rain)"/>
+<path d="M0 439H1280" stroke="#e63d51" stroke-width="3"/>
+<circle cx="1030" cy="185" r="156" fill="#8b2033" opacity=".12"/>
+<circle cx="1030" cy="185" r="137" fill="url(#moon)"/>
+<circle cx="1030" cy="185" r="124" fill="none" stroke="#f99a8a" stroke-opacity=".15"/>
+<path d="M887 176Q1020 144 1168 183M900 224Q1030 198 1158 228" fill="none" stroke="#701a2c" stroke-width="12" opacity=".35"/>
+<use href="#crow" transform="translate(1164 92) rotate(-16) scale(.92)"/>
+<use href="#crow" transform="translate(866 115) rotate(15) scale(.63)"/>
+<use href="#crow" transform="translate(1190 280) rotate(-18) scale(.58)"/>
+<use href="#crow" transform="translate(806 252) rotate(16) scale(.37)"/>
+<!-- Original vector silhouette inspired by Itachi's visual motifs. -->
+<path d="M901 440L930 327L958 300L953 274L948 209Q937 149 977 121Q1025 98 1050 133Q1080 154 1064 217L1057 274L1045 300L1092 330L1130 440Z" fill="#07080e"/>
+<path d="M951 204Q963 155 1006 150Q1045 153 1055 203L1042 261L1010 283L977 263Z" fill="#25202a"/>
+<path d="M954 169L1054 165L1055 190L953 194Z" fill="#63606c"/>
+<path d="M967 176L1043 173" stroke="#a9a4ad" stroke-width="2"/>
+<path d="M984 178Q1006 160 1023 184M979 183L1033 175" fill="none" stroke="#171923" stroke-width="3"/>
+<path d="M961 206L993 211L980 219ZM1020 210L1050 202L1037 218Z" fill="#d82e48"/>
+<circle cx="980" cy="213" r="3" fill="#05060a"/><circle cx="1035" cy="211" r="3" fill="#05060a"/>
+<path d="M979 222L974 241M1037 221L1041 238" stroke="#9d5761" stroke-width="2" opacity=".8"/>
+<path d="M1007 220L1003 242L1013 243M995 257L1021 256" stroke="#0b0c13" fill="none" stroke-width="3"/>
+<path d="M948 205L965 169L988 133L982 194L965 265L955 302L949 251ZM1018 126L1040 183L1050 272L1073 294L1075 173L1050 128Z" fill="#0a0a12"/>
+<path d="M943 287L1006 315L1061 281L1085 320L1039 361L1019 440L995 440L982 360L924 320Z" fill="#171621" stroke="#402531" stroke-width="2"/>
+<path d="M944 292L1007 324L1061 288" fill="none" stroke="#a8293c" stroke-width="6"/>
+<path d="M1006 325L1007 439" stroke="#9e263c" stroke-width="3"/>
+<path d="M1052 382C1035 367 1063 348 1074 364C1084 352 1105 359 1101 374C1120 375 1118 397 1097 396H1051C1034 395 1038 380 1052 382Z" fill="#a9253a" stroke="#d48287" stroke-width="2"/>
+<path d="M1160 396Q1201 368 1247 385L1221 398L1250 406L1200 414Z" fill="#1f1620"/>
+<rect x="56" y="52" width="38" height="3" fill="#eb4659"/>
+<text x="108" y="60" fill="#ee7b86" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">TEMU KEMBALI INFORMASI</text>
+<text x="54" y="145" fill="#faf7f8" font-family="Arial,sans-serif" font-size="51" font-weight="700">Arsip Putusan</text>
+<text x="54" y="205" fill="#faf7f8" font-family="Arial,sans-serif" font-size="51" font-weight="700">Narkotika.</text>
+<text x="58" y="249" fill="#c6bdc7" font-family="Arial,sans-serif" font-size="23">Pengadilan Negeri Surakarta</text>
+<path d="M58 278H706" stroke="#38303a"/>
+<text x="58" y="320" fill="#f4eff2" font-family="Arial,sans-serif" font-size="19">50 PDF</text>
+<text x="179" y="320" fill="#54404c" font-family="Arial,sans-serif" font-size="19">/</text>
+<text x="211" y="320" fill="#f4eff2" font-family="Arial,sans-serif" font-size="19">2023–2025</text>
+<text x="373" y="320" fill="#54404c" font-family="Arial,sans-serif" font-size="19">/</text>
+<text x="405" y="320" fill="#f4eff2" font-family="Arial,sans-serif" font-size="19">1.712 halaman</text>
+<text x="58" y="383" fill="#8f8392" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">NAUFAL ZAINUL ZAKI · HANISAH AUFA KHALIDAH</text>
+<text x="1222" y="422" text-anchor="end" fill="#79636d" font-family="Arial,sans-serif" font-size="10" letter-spacing="2">ITACHI EDITION</text>
+</svg>
