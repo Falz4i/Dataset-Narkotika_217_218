@@ -341,9 +341,9 @@ Riwayat perubahan perlu menyebut alasan penggantian dan sumbernya. Hindari mengg
 - [x] Menyediakan nama/NIM anggota, dokumentasi, dan sumber setiap putusan.
 - [x] Memeriksa integritas berkas serta metadata 53 halaman sumber.
 - [ ] Menyelesaikan verifikasi syarat tidak menggunakan putusan BHT.
-- [ ] Memastikan PN Surakarta tidak dipakai kelompok lain.
-- [ ] Membuat repositori **public** bernama **`Dataset-Narkotika_217_218`**.
-- [ ] Mengunggah `Dataset`, `Overview`, `Verifikasi`, `assets`, dan `README.md` ke direktori utama repositori.
+- [x] Memastikan PN Surakarta tidak dipakai kelompok lain.
+- [x] Membuat repositori **public** bernama **`Dataset-Narkotika_217_218`**.
+- [x] Mengunggah `Dataset`, `Overview`, `Verifikasi`, `assets`, dan `README.md` ke direktori utama repositori.
 - [ ] Setiap anggota mengumpulkan tautan repositori melalui LMS sesuai tenggat dosen.
 
 Unggah **isi folder repositori** setelah mengekstrak paket pengiriman. Simpan `Narkotika.zip` tetap sebagai arsip di dalam folder `Dataset`; file tersebut berisi 50 PDF yang diminta tugas. Folder `assets` perlu ikut diunggah agar banner dan grafik README tampil.
