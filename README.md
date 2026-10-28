@@ -1,6 +1,6 @@
 <a id="top"></a>
 <p align="center">
-  <img src="assets/itachi-header.svg" width="100%" alt="Arsip Putusan Narkotika PN Surakarta — tema Itachi, bulan merah dan gagak" />
+  <img src="assets/itachi.png" width="399" alt="Uchiha Itachi di depan bulan merah" />
 </p>
 
 <h1 align="center">Dataset Narkotika · PN Surakarta</h1>
@@ -16,7 +16,7 @@
   <a href="Verifikasi/hasil_pemeriksaan_BHT_53_putusan.json"><strong>Lihat hasil pemeriksaan</strong></a>
 </p>
 
-<p align="center"><sub>ITACHI EDITION · Hitam, merah, bulan, dan gagak sebagai identitas visual dokumentasi.</sub></p>
+<p align="center"><sub>ITACHI EDITION · Hitam dan bulan merah sebagai identitas visual dokumentasi.</sub></p>
 
 ---
 
@@ -98,7 +98,7 @@ Nama file memakai nomor urut Excel. Apabila folder tujuan sudah berisi hasil eks
 Dataset-Narkotika_217_218/
 ├── README.md
 ├── assets/
-│   ├── itachi-header.svg
+│   ├── itachi.png
 │   └── distribusi-tahun.svg
 ├── Dataset/
 │   └── Narkotika.zip                 # 50 PDF asli
@@ -350,7 +350,7 @@ Unggah **isi folder repositori** setelah mengekstrak paket pengiriman. Simpan `N
 - **Dokumen hukum:** [Direktori Putusan Mahkamah Agung RI](https://putusan3.mahkamahagung.go.id/direktori.html); tautan per perkara tersedia pada katalog dan Excel.
 - **Contoh susunan dokumentasi:** [Laravel Framework](https://github.com/laravel/framework), khususnya penjelasan proyek, petunjuk penggunaan, serta panduan kontribusi yang terpisah dan mudah ditemukan.
 - **Pengolahan dan dokumentasi:** Naufal Zainul Zaki dan Hanisah Aufa Khalidah.
-- **Visual:** ilustrasi vektor dibuat untuk README ini, terinspirasi Uchiha Itachi dari *Naruto*. Ilustrasi merupakan dekorasi dokumentasi dan tidak menyatakan afiliasi dengan pemegang hak karakter.
+- **Visual:** gambar Uchiha Itachi dari *Naruto* disediakan oleh anggota kelompok untuk dekorasi README. Gambar bukan karya orisinal penyusun dataset; hak atas karakter dan gambar tetap milik pemegang hak masing-masing. Dokumentasi ini tidak menyatakan afiliasi resmi.
 
 Dokumen sumber tetap diatribusikan kepada lembaga penerbitnya. Repositori ini tidak menetapkan lisensi perangkat lunak seperti MIT untuk keseluruhan putusan hukum. Jika mengutip dataset, sertakan nama penyusun, nama dataset, tahun penyusunan, dan URL repositori setelah diterbitkan; untuk isi putusan, sertakan nomor perkara serta URL MA.
 
