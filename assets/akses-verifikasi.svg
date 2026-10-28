@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="132" viewBox="0 0 840 132" role="img" aria-labelledby="title desc">
+<title id="title">Lihat hasil pemeriksaan</title><desc id="desc">Laporan sumber dan catatan status BHT.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#21121e"/><stop offset="1" stop-color="#12151f"/></linearGradient></defs>
+<rect x="1" y="1" width="838" height="130" rx="18" fill="url(#bg)" stroke="#4c3545" stroke-width="2"/>
+<rect x="1" y="27" width="4" height="78" rx="2" fill="#c5b5ff"/>
+<rect x="24" y="30" width="72" height="72" rx="18" fill="#32202d"/>
+<g transform="translate(33 40)" fill="none" stroke="#c5b5ff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"><path d="M27 3l20 8v15c0 11-9 19-20 24C16 45 7 37 7 26V11z"/><path d="M17 26l7 7 14-16"/></g>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="120" y="58" fill="#fff4f7" font-size="31" font-weight="700">Lihat hasil pemeriksaan</text><text x="120" y="94" fill="#c9c3d0" font-size="23">Laporan sumber dan catatan status BHT.</text></g>
+<circle cx="787" cy="66" r="24" fill="#33212e"/><path d="M777 66h20m-8-8 8 8-8 8" fill="none" stroke="#c5b5ff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

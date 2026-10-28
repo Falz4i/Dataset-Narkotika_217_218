@@ -1,0 +1,17 @@
+Built-in image_gen tool. Edit using existing banner and character reference.
+
+Use case: compositing.
+Asset type: polished high-resolution GitHub README hero banner.
+Input image 1 is the edit target: existing dark red Itachi legal-dataset banner. Input image 2 is the character fidelity reference.
+Upgrade the existing banner into a much clearer, striking premium editorial anime composition. Wide landscape aspect ratio 2.4:1, approximately 2400x1000. Maintain original concept: readable Indonesian title on left, Uchiha Itachi seated/crouched with hands on a pillar at right, red full moon behind him, sparse crow silhouettes and mist. Preserve character identity, recognizable face, headband, black hair, gray armor, seated pose, sword and proportions from the reference. Draw him with refined sharp anime linework, bright readable face and armor, cool pale highlights and subtle red rim light so he does NOT disappear into the background. Character occupies nearly full banner height on the right 43%, with head and body well visible. Moon detailed and luminous crimson with a controlled soft halo, rich red clouds and a few embers. No harsh flashing or overwhelming effects.
+Left 57%: spacious graphite/ink background with subtle burgundy gradient; editorial typography in bright off-white, left aligned. Oversized crisp sans-serif title. Strong hierarchy, exact typeset text, no tiny microtype. Keep every word in the safe area with generous margins.
+Exact text:
+Small but clearly readable upper eyebrow: "TEMU KEMBALI INFORMASI"
+Large title on two lines: "Arsip Putusan" then "Narkotika."
+Subtitle: "Pengadilan Negeri Surakarta"
+Lower left, three spacious integrated metrics with clear separation:
+"50" with label "DOKUMEN PDF"
+"2023–2025" with label "TAHUN PUTUSAN"
+"1.712" with label "HALAMAN"
+Only these texts. Do not include names, extra badges, buttons, fake UI or extra captions.
+Deliberately improve readability at 840px display width: large title, large data numerals, clear secondary labels. Clean professional dataset presentation with cinematic red moon illustration. Thin crimson bottom border; squared canvas edges; no outer frame or mockup. Keep text region calm and uniformly dark, illustration brighter and more detailed. No watermark.

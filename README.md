@@ -1,6 +1,6 @@
 <a id="top"></a>
 <p align="center">
-  <img src="assets/itachi-header.gif" width="100%" alt="Arsip Putusan Narkotika PN Surakarta — header animasi: bulan merah berdenyut, kabut bergerak, dan mata Itachi menyala di kanan" />
+  <img src="assets/itachi-header-v2.png" width="100%" alt="Arsip Putusan Narkotika — Pengadilan Negeri Surakarta. 50 dokumen PDF, tahun 2023–2025, 1.712 halaman. Itachi di depan bulan merah." />
 </p>
 
 <h1 align="center">Dataset Narkotika · PN Surakarta</h1>
@@ -11,13 +11,16 @@
 </p>
 
 <p align="center">
-  <a href="Dataset/Narkotika.zip"><strong>Unduh 50 PDF</strong></a> &nbsp; / &nbsp;
-  <a href="Overview/Overview.xlsx"><strong>Buka Overview</strong></a> &nbsp; / &nbsp;
-  <a href="Verifikasi/hasil_pemeriksaan_BHT_53_putusan.json"><strong>Lihat hasil pemeriksaan</strong></a>
+  <a href="Dataset/Narkotika.zip"><img src="assets/akses-dataset.svg" width="100%" alt="Unduh 50 PDF — dokumen putusan asli dalam satu arsip ZIP" /></a>
+</p>
+<p align="center">
+  <a href="Overview/Overview.xlsx"><img src="assets/akses-overview.svg" width="100%" alt="Buka Overview — ringkasan perkara, barang bukti, dan amar" /></a>
+</p>
+<p align="center">
+  <a href="Verifikasi/hasil_pemeriksaan_BHT_53_putusan.json"><img src="assets/akses-verifikasi.svg" width="100%" alt="Lihat hasil pemeriksaan — laporan sumber dan catatan status BHT" /></a>
 </p>
 
-<p align="center"><sub>ITACHI EDITION · Bulan merah, kabut, dan Sharingan dalam animasi enam detik.<br />
-<a href="assets/itachi-header.png">Lihat header tanpa animasi</a></sub></p>
+<p align="center"><sub>ITACHI EDITION · <a href="assets/itachi-header-v2.png">Buka ilustrasi resolusi penuh</a> · <a href="assets/itachi-header.gif">Lihat animasi versi awal</a></sub></p>
 
 ---
 
@@ -99,9 +102,14 @@ Nama file memakai nomor urut Excel. Apabila folder tujuan sudah berisi hasil eks
 Dataset-Narkotika_217_218/
 ├── README.md
 ├── assets/
-│   ├── itachi-header.gif            # Banner animasi, 6 detik berulang
-│   ├── itachi-header.png            # Versi tanpa animasi
+│   ├── itachi-header-v2.png         # Banner utama resolusi tinggi
+│   ├── itachi-header.gif            # Animasi versi awal, 6 detik
+│   ├── itachi-header.png            # Banner statis versi awal
 │   ├── itachi.png                   # Gambar referensi dari anggota
+│   ├── akses-dataset.svg            # Kartu unduhan PDF
+│   ├── akses-overview.svg           # Kartu ringkasan Excel
+│   ├── akses-verifikasi.svg         # Kartu laporan pemeriksaan
+│   ├── header-prompt.txt            # Prompt pembuatan banner utama
 │   └── distribusi-tahun.svg
 ├── Dataset/
 │   └── Narkotika.zip                 # 50 PDF asli
@@ -353,7 +361,7 @@ Unggah **isi folder repositori** setelah mengekstrak paket pengiriman. Simpan `N
 - **Dokumen hukum:** [Direktori Putusan Mahkamah Agung RI](https://putusan3.mahkamahagung.go.id/direktori.html); tautan per perkara tersedia pada katalog dan Excel.
 - **Contoh susunan dokumentasi:** [Laravel Framework](https://github.com/laravel/framework), khususnya penjelasan proyek, petunjuk penggunaan, serta panduan kontribusi yang terpisah dan mudah ditemukan.
 - **Pengolahan dan dokumentasi:** Naufal Zainul Zaki dan Hanisah Aufa Khalidah.
-- **Visual:** gambar Uchiha Itachi dari *Naruto* disediakan oleh anggota kelompok; banner disusun dengan bantuan imagegen, mempertahankan tata letak judul di kiri dan menempatkan ilustrasi Itachi di kanan. Lapisan kabut dibuat dengan imagegen; animasi GIF dirangkai secara lokal dengan teks tetap diam. Gambar bukan karya orisinal penyusun dataset; hak atas karakter dan gambar tetap milik pemegang hak masing-masing. Dokumentasi ini tidak menyatakan afiliasi resmi.
+- **Visual:** gambar referensi Uchiha Itachi dari *Naruto* disediakan oleh anggota kelompok. Banner utama diperbarui dengan bantuan imagegen, menggunakan ilustrasi yang lebih terang serta judul dan angka ringkasan yang lebih besar; [prompt banner](assets/header-prompt.txt) disertakan. Kartu akses berkas dan grafik distribusi dibuat dalam SVG. Banner serta animasi versi awal tetap tersedia sebagai alternatif. Hak atas karakter dan gambar referensi tetap milik pemegang hak masing-masing. Dokumentasi ini tidak menyatakan afiliasi resmi.
 
 Dokumen sumber tetap diatribusikan kepada lembaga penerbitnya. Repositori ini tidak menetapkan lisensi perangkat lunak seperti MIT untuk keseluruhan putusan hukum. Jika mengutip dataset, sertakan nama penyusun, nama dataset, tahun penyusunan, dan URL repositori setelah diterbitkan; untuk isi putusan, sertakan nomor perkara serta URL MA.
 
