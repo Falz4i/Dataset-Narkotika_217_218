@@ -1,6 +1,6 @@
 <a id="top"></a>
 <p align="center">
-  <img src="assets/itachi.png" width="399" alt="Uchiha Itachi di depan bulan merah" />
+  <img src="assets/itachi-header.gif" width="100%" alt="Arsip Putusan Narkotika PN Surakarta — header animasi: bulan merah berdenyut, kabut bergerak, dan mata Itachi menyala di kanan" />
 </p>
 
 <h1 align="center">Dataset Narkotika · PN Surakarta</h1>
@@ -16,7 +16,8 @@
   <a href="Verifikasi/hasil_pemeriksaan_BHT_53_putusan.json"><strong>Lihat hasil pemeriksaan</strong></a>
 </p>
 
-<p align="center"><sub>ITACHI EDITION · Hitam dan bulan merah sebagai identitas visual dokumentasi.</sub></p>
+<p align="center"><sub>ITACHI EDITION · Bulan merah, kabut, dan Sharingan dalam animasi enam detik.<br />
+<a href="assets/itachi-header.png">Lihat header tanpa animasi</a></sub></p>
 
 ---
 
@@ -47,7 +48,7 @@ PDF diperoleh dari [Direktori Putusan Mahkamah Agung Republik Indonesia](https:/
 | Sebaran tahun | 2023: **17** · 2024: **15** · 2025: **18** |
 | Koleksi awal | 53 PDF; 3 tetap disimpan sebagai cadangan di folder sumber |
 | Bahasa dokumen | Bahasa Indonesia |
-| Format | PDF, XLSX, JSON, Markdown, SVG |
+| Format | PDF, XLSX, JSON, Markdown, PNG, GIF, SVG |
 | Duplikat berkas dalam paket | **0**, berdasarkan kesamaan SHA-256 |
 | Tanggal pengumpulan dokumen | 28 Oktober 2026 |
 | Pemeriksaan halaman sumber | 28 Oktober 2026, pukul 22:27–22:29 WIB |
@@ -98,7 +99,9 @@ Nama file memakai nomor urut Excel. Apabila folder tujuan sudah berisi hasil eks
 Dataset-Narkotika_217_218/
 ├── README.md
 ├── assets/
-│   ├── itachi.png
+│   ├── itachi-header.gif            # Banner animasi, 6 detik berulang
+│   ├── itachi-header.png            # Versi tanpa animasi
+│   ├── itachi.png                   # Gambar referensi dari anggota
 │   └── distribusi-tahun.svg
 ├── Dataset/
 │   └── Narkotika.zip                 # 50 PDF asli
@@ -350,7 +353,7 @@ Unggah **isi folder repositori** setelah mengekstrak paket pengiriman. Simpan `N
 - **Dokumen hukum:** [Direktori Putusan Mahkamah Agung RI](https://putusan3.mahkamahagung.go.id/direktori.html); tautan per perkara tersedia pada katalog dan Excel.
 - **Contoh susunan dokumentasi:** [Laravel Framework](https://github.com/laravel/framework), khususnya penjelasan proyek, petunjuk penggunaan, serta panduan kontribusi yang terpisah dan mudah ditemukan.
 - **Pengolahan dan dokumentasi:** Naufal Zainul Zaki dan Hanisah Aufa Khalidah.
-- **Visual:** gambar Uchiha Itachi dari *Naruto* disediakan oleh anggota kelompok untuk dekorasi README. Gambar bukan karya orisinal penyusun dataset; hak atas karakter dan gambar tetap milik pemegang hak masing-masing. Dokumentasi ini tidak menyatakan afiliasi resmi.
+- **Visual:** gambar Uchiha Itachi dari *Naruto* disediakan oleh anggota kelompok; banner disusun dengan bantuan imagegen, mempertahankan tata letak judul di kiri dan menempatkan ilustrasi Itachi di kanan. Lapisan kabut dibuat dengan imagegen; animasi GIF dirangkai secara lokal dengan teks tetap diam. Gambar bukan karya orisinal penyusun dataset; hak atas karakter dan gambar tetap milik pemegang hak masing-masing. Dokumentasi ini tidak menyatakan afiliasi resmi.
 
 Dokumen sumber tetap diatribusikan kepada lembaga penerbitnya. Repositori ini tidak menetapkan lisensi perangkat lunak seperti MIT untuk keseluruhan putusan hukum. Jika mengutip dataset, sertakan nama penyusun, nama dataset, tahun penyusunan, dan URL repositori setelah diterbitkan; untuk isi putusan, sertakan nomor perkara serta URL MA.
 
